@@ -49,12 +49,12 @@ En esta practica hemos trabajado con Python 3.6, por este motivo, aunque se pedi
 - Abrir otra terminal e ir hasta el directorio test_automated y escribir:
 
 		(venv) F:\*\P3Verificacion\P3Verificacion\Apps\Web\test_automated> aloe
-
+        
 ## Equipo Desarrollo
 1. [Sergio Blanco]
 2. [Sergio Cuesta]
 3. [Miguel Muñiz]
-4. Miguel Olmedo
+4. [Miguel Olmedo]
 
 ## Version
     V2.0
@@ -62,8 +62,9 @@ En esta practica hemos trabajado con Python 3.6, por este motivo, aunque se pedi
 [Sergio Blanco]: https://github.com/sergioBMPN
 [Sergio Cuesta]:https://github.com/scj300
 [Miguel Muñiz]: https://github.com/miguelmuniz46
+[Miguel Olmedo]: https://github.com/MiguelOlmedo
 [Django]:https://www.djangoproject.com
-[Flask]:(http://flask.pocoo.org/)
+[Flask]:http://flask.pocoo.org/
 [link]:https://chromedriver.storage.googleapis.com/index.html?path=2.38/
 [lettuce]:http://lettuce.it/
 [Aloe]:https://pypi.org/project/aloe/
