@@ -5,6 +5,6 @@ ifneq ($(wildcard requirements.txt),)
 endif
 
 venv:
-	virtualenv  -p python3 venv
+	virtualenv -p python3 venv
 	venv/bin/pip install --upgrade pip
 	venv/bin/pip install --upgrade setuptools
