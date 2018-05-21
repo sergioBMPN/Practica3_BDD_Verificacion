@@ -1,5 +1,6 @@
 import collections
 
+
 class StringsExamples(object):
     """A class to play with the strings"""
 
@@ -41,7 +42,7 @@ class StringsExamples(object):
 
             for punt in puntuaciones:
                 args = args.replace(punt, "")
-            args=args.lower()
+            args = args.lower()
             args = args.split()
 
             for stopwords in listaStopwords:
@@ -64,5 +65,4 @@ class StringsExamples(object):
         for element in a:
             if element not in b:
                 return False
-
         return True
